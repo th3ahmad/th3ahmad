@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mubeen Ahmad Khan 👋
 
-<!--
-**th3ahmad/th3ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mubeen Ahmad Khan**, also known as `th3ahmad` on GitHub.  
+I specialize in **Django, PostgreSQL, DevOps, DNS/SSL, Bootstrap, HTML, CSS, and JavaScript**.  
 
-Here are some ideas to get you started:
+🚀 Projects by **Mubeen Ahmad Khan** include:  
+- DHA Main Website  
+- Margalla Enclave (New Launch)  
+- Member Portal & Installment Reminder Software  
+- Jmart Admin Dashboard  
+- Inter-Office Portal & Visitor Management System  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:  
+[LinkedIn](https://linkedin.com/in/mubeenahmadkhan) | [Email](mailto:mubeen.icit@gmail.com)
