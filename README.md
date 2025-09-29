@@ -11,4 +11,4 @@ I specialize in **Django, PostgreSQL, DevOps, DNS/SSL, Bootstrap, HTML, CSS, and
 - Inter-Office Portal & Visitor Management System  
 
 📫 Connect with me:  
-[LinkedIn](https://linkedin.com/in/mubeenahmadkhan) | [Email](mailto:mubeen.icit@gmail.com)
+[LinkedIn](https://linkedin.com/in/mubeenahmadkhan) | [Email](mailto:mubeen.icit@gmail.com) | [Medium](https://medium.com/@mubeenahmadkhan)
