@@ -1,10 +1,11 @@
+<!-- Typing effect header in RED -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi,+I%27m+Mubeen+Ahmad+Khan+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1200&color=FF0000&center=true&vCenter=true&width=750&lines=Hi,+I%27m+Mubeen+Ahmad+Khan+👋" />
 </p>
 
 <p align="center">
   I'm <strong>Mubeen Ahmad Khan</strong>, also known as <code>th3ahmad</code> on GitHub.  
-  🌐 Visit my personal website: <a href="https://www.mubeenahmadkhan.com">www.mubeenahmadkhan.com</a>
+  🌐 Visit my personal website: <a href="https://www.mubeenahmadkhan.com" target="_blank">www.mubeenahmadkhan.com</a>
 </p>
 
 ---
@@ -40,17 +41,17 @@ Here are some of my notable projects:
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mubeenahmadkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mubeen.icit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@mubeenahmadkhan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.mubeenahmadkhan.com"><img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mubeenahmadkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mubeen.icit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@mubeenahmadkhan" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.mubeenahmadkhan.com" target="_blank"><img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3ahmad&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=th3ahmad&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 ---
