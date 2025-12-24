@@ -48,15 +48,6 @@ Here are some of my notable projects:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/github/followers/th3ahmad?label=Followers&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/stars/th3ahmad?label=Stars&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/repos/th3ahmad?label=Repos&style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/th3ahmad?label=Issues&style=for-the-badge" />
-</p>
----
-
 ### ⚡ Fun Fact
 ```python
 while(alive):
