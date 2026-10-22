@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=00FF66&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mubeen+Ahmad+Khan+%F0%9F%91%8B+|+Assistant+Manager+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=00FF66&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mubeen+Ahmad+Khan+%F0%9F%91%8B;Full-Stack+Django+Architect;Technical+SEO,+AEO+%26+GEO+Specialist" />
 </p>
 
 <p align="center">
-  <strong>AM Web @ DHA Islamabad</strong> | Full-Stack Django Architect | Technical SEO, AEO & GEO Specialist
+  <strong>Assistant Manager Web @ DHA Islamabad</strong> | Backend & Cloud-Ready Systems Engineer
 </p>
 
 ---
