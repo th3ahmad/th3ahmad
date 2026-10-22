@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Assistant Manager Web @ DHA Islamabad</strong> | Full-Stack Django Architect | Technical SEO, AEO & GEO Specialist
+  <strong>AM Web @ DHA Islamabad</strong> | Full-Stack Django Architect | Technical SEO, AEO & GEO Specialist
 </p>
 
 ---
